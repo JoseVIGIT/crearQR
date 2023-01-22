@@ -6,9 +6,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <!-- Generar proyecto en un único fichero que contenga librerias + PDB -->
+    <!-- Generar proyecto en un único fichero que contenga librerias + PDB + eliminar librerias no usadas (TRIM) -->
     <PublishSingleFile>true</PublishSingleFile>
     <DebugType>embedded</DebugType>
+    <PublishTrimmed>true</PublishTrimmed>
 
   </PropertyGroup>
 

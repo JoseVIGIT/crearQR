@@ -2,7 +2,8 @@
 *
 
 # Allow
-!QR.csproj
-!Program.cs
+!crearQR/
+!crearQR/Program.cs
+!crearQR/QR.csproj
 !README.md
 !.gitignore

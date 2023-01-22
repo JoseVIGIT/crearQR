@@ -5,6 +5,11 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <!-- Generar proyecto en un único fichero que contenga librerias + PDB -->
+    <PublishSingleFile>true</PublishSingleFile>
+    <DebugType>embedded</DebugType>
+
   </PropertyGroup>
 
   <ItemGroup>

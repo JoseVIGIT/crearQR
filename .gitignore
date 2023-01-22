@@ -1,0 +1,8 @@
+# Ignore
+*
+
+# Allow
+!QR.csproj
+!Program.cs
+!README.md
+!.gitignore
